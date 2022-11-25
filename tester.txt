@@ -1,7 +1,13 @@
 This is a test file
 
+<<<<<<< HEAD
 The main brach v2
 The Dev branch v1
 The Dev branch v1
 
 Dev branch rebase
+=======
+The Dev branch v1
+
+Dev branch rebase
+>>>>>>> 3e5859831a9ee195014b8b7cf55aa794270cdb34
