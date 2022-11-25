@@ -1,4 +1,2 @@
-Vega Punk
-Vegavega
-
-My new stuf dev
+Version 1
+Version 2
