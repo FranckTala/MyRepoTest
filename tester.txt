@@ -1,3 +1,8 @@
 This is a test file
 
 The Dev branch v1
+<<<<<<< HEAD
+=======
+
+Dev branch rebase
+>>>>>>> 3e58598 (v rebase v2)
